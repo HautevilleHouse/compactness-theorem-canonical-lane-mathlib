@@ -1,0 +1,11 @@
+import HautevilleHouse.CompactnessTheoremCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.CompactnessTheoremCanonicalLaneLean.CompactnessAdmittedObject
+import HautevilleHouse.CompactnessTheoremCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.CompactnessTheoremCanonicalLaneLean.GateLemmas
+import HautevilleHouse.CompactnessTheoremCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CompactnessTheoremCanonicalLaneLean
+-- Root module placeholder
+end CompactnessTheoremCanonicalLaneLean
+end HautevilleHouse
